@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Blog | Life As A (Jr) Dev]]></title>
+  <link href="http://thawing-sands-3170.herokuapp.com//blog/categories/blog/atom.xml" rel="self"/>
+  <link href="http://thawing-sands-3170.herokuapp.com//"/>
+  <updated>2014-01-12T19:51:27-06:00</updated>
+  <id>http://thawing-sands-3170.herokuapp.com//</id>
+  <author>
+    <name><![CDATA[Amber Houle]]></name>
+    <email><![CDATA[amber.houle3@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Blogging with Jekyll/Octopress]]></title>
+    <link href="http://thawing-sands-3170.herokuapp.com//blog/2013/12/16/blogging-with-jekyll-slash-octopress/"/>
+    <updated>2013-12-16T10:19:16-06:00</updated>
+    <id>http://thawing-sands-3170.herokuapp.com//blog/2013/12/16/blogging-with-jekyll-slash-octopress</id>
+    <content type="html"><![CDATA[<p>As I have recently graduated from University of Toronto, finished <a href="www.bitmakerlabs.com">Bitmaker Labs</a>, a Toronto based intensive coding school, and will be starting a new job as a Software Developer in the new year, I figured it was a good time to launch a blog to keep track of and be able to share the knowledge I acquire along the way.</p>
+
+<!--more-->
+
+
+<p>I was originally going to launch a blog using <a href="https://wordpress.org">Wordpress.org</a>. I thought it would be a good excuse to expose myself to some PHP over time. I spent a couple of days playing around with the PHP source code, trying to get things to work the way I wanted them to, but then decided to look for other &ldquo;quick deployment&rdquo; solutions.</p>
+
+<p>I am a little bit stubborn in that I like to do everything on my own and build things from scratch (i.e not make use of all the available Wordpress plugins that will do everything for you). Although this is a great way to get a deep understanding of the tools and technologies you are using (really a great way to learn for yourself), it is definitely NOT the most time efficient way of getting things done and as stubborn as I am, I am realizing more and more how important it is to pick and choose what pre-existing tools you should make use of.</p>
+
+<p>Anyways, after deciding I was spending too much time when I had so little, I thought it might be a good idea to build a personal blog from scratch in rails, until I stumbled upon <a href="http://jekyllrb.com/">Jekyll</a> and <a href="http://octopress.org/">Octopress</a>. Jekyll is &ldquo;a simple, blog aware, static site generator&rdquo; bundled as a ruby gem. Jekyll doesn&rsquo;t come with any templating, CSS, HTML or styling elements, it is pretty &ldquo;bare bones&rdquo;, so to get a blog up and running really quickly with some element of design taken care of, you can use <a href="http://octopress.org/">Octopress</a>, a framework written for Jekyll.</p>
+
+<p>Octopress calls itself <em><strong>&ldquo;A blogging framework for hackers&rdquo;</strong></em>. It provides an HTML5 template and a mobile first responsive layout. If you are already a Ruby developer and use Git the setup is very quick and the <a href="http://octopress.org/docs/">getting started documentation</a> is straightforward. The nice thing about Octopress is it is very lightweight and flexible, you can choose to use a pre-existing theme (of which some good 3rd party themes can be found <a href="https://github.com/imathis/octopress/wiki/3rd-Party-Octopress-Themes">here</a>), and it is easy to customize and edit source code as much or as little as you want.</p>
+
+<p>Another reason I am liking the Octopress solution over Wordpress, is it avoids the need to add posts and pages through a graphical admin page. With Octopress everytime you want to add a new post just run the command <code>rake new_post["title"]</code> and start typing your post in your favorite text editor (<a href="http://www.sublimetext.com/">Sublime</a> in my case!) in markdown format.</p>
+
+<p>You can also easily deploy your Octopress blog to Github or Heroku, and again <a href="http://octopress.org/docs/deploying/">the documentation</a> is quick and straightforward.</p>
+
+<p>I got everything up and running and configured within a couple of hours, and am having fun playing around with the customization of the site. Styling templates are provided as <a href="http://sass-lang.com/">SASS</a> files, so for someone who hasn&rsquo;t ventured outside of basic CSS much, it is fun to play around with these <em><strong>Syntactically Awesome Style Sheets</strong></em>.</p>
+
+<p>Happy blogging everyone!</p>
+]]></content>
+  </entry>
+  
+</feed>

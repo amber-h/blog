@@ -1,0 +1,374 @@
+/*html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}*/
+
+
+a img {border: none;}
+a:link, a:visited, a:active {text-decoration: none; color:#FFF;}	
+a:hover {font-weight: 300;}	
+
+::-moz-selection{background:#FFF; color:#FFF}
+::selection{background:#FFF; color:#FFF}
+
+input:focus{outline: 0;}
+
+html {
+	height:100%;
+	min-width:500px;
+	min-height:700px;
+}
+
+body {
+	background-color:#434343;
+	margin: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+	height:100%;
+}
+
+.textFont {font-family: 'Lato', sans-serif; margin:0px;}
+.textFont2 {font-family: 'Gravitas One', cursive;}
+
+.thinnerText{ font-weight: 50; }
+.thinText{ font-weight: 200; }
+.normalText{ font-weight: 300; }
+.boldText{ font-weight: 900;}
+
+.darkText{ color: #393939; }
+.lightText{ color: #FFFFFF; }
+.grayText{ color: #eae9e9; }
+.linkText{ color: #CCCCCC; transition: 0.3s;}
+.linkText:hover{ color: #FFFFFF; }
+.linkText:active{ color: #FFFFFF; }
+
+.centerText{ text-align: center; }
+.rightText{ text-align: right; }
+.leftText{ text-align: left; }
+
+.biggerText{ font-size: 82px; }
+.bigText{ font-size: 50px; }
+.mediumText{ font-size: 39px; }
+.smallText{ font-size: 27px; }
+.smallerText{ font-size: 20px; }
+.smallestText{ font-size: 16px; }
+
+.titleHeight{ line-height: 120px; }
+.paragraphHeight{ line-height: 50px; }
+.detailsHeight{ line-height: 35px; }
+
+.fixedDiv{  position:fixed: top: 0; left: 0; z-index: 2000;}
+
+@media screen and (max-width: 1080px) {.bigText{ font-size: 42px; }}
+
+
+#BG1{
+	display:block; position:fixed; z-index:-1;
+	top:0%; left:0%;
+	width:100%;	height:100%;
+	overflow:hidden;
+}
+
+#BG2{
+	display:block; position:fixed; z-index:-2;
+	top:0%; left:0%;
+	width:100%;	height:100%;
+	overflow:hidden;
+}
+
+#BG3{
+	display:block; position:fixed; z-index:-3;
+	top:0%; left:0%;
+	width:100%;	height:100%;
+	overflow:hidden;
+}
+
+#header{
+	width: 100%;
+	background-color:rgba(0,0,0,0.5);
+	position:fixed: top: 0; left: 0; z-index: 2000;
+	margin: 0 auto;
+}
+
+#FG1{
+	display:block; position:relative;
+	width:100%;	height:100%;
+	background-color:transparent;
+}
+
+
+#FG2{
+	display:block; position:relative;
+	width:100%;	height:30%;
+	/*background-color:rgba(255,255,255,0.25);*/
+	background-color:transparent;
+
+}
+#FG3{
+	display:block; position:relative;
+	width:100%;	height:30%;
+	/*background-color:rgba(255,255,255,0.3);*/
+	background-color:transparent;
+}
+#FG4{
+	display:block; position:relative;
+	width:100%;	height:40%;
+	/*background-color:rgba(255,255,255,0.25);*/
+	background-color:transparent;
+}
+
+
+#FG5{
+	display:block; position:relative;
+	width:100%;	height:50%;
+	background-color:transparent;
+}
+#FG6{
+	display:block; position:relative;
+	width:100%;	height:50%;
+	background-color:transparent;
+}
+#FG7{
+	display:block; position:relative;
+	width:100%;	height:50%;
+	background-color:transparent;
+}
+
+#FG8{
+	display:block; position:relative;
+	width:100%;	height:15%;
+	background-color:rgba(0,0,0,0.5);
+}
+.centerMe{
+	position:absolute; 
+	height:610px; width:800px; top:50%; left:50%;
+	margin-top:-300px; margin-left: -400px;
+	background-color: transparent; 
+}
+.centerMe2{
+	position:absolute; 
+	height:200px; width:800px; top:50%; left:50%;
+	margin-top: -100px; margin-left: -400px;
+	background-color: transparent; 
+}
+
+.centerMe3{
+	position:absolute; 
+	height:50px; width:800px; top:50%; left:50%;
+	margin-top:-25px; margin-left: -400px;
+	background-color: transparent; 
+}
+
+.centerMe4{
+	height:50px; width:100%; top:50%; left:50%;
+	margin-top:-100px; 
+	background-color: transparent; 
+}
+
+#appTitle{
+	position:absolute;
+	top:50px;left:0px; height:120px; width:500px;	
+}
+
+#appDescription{
+	position:absolute;
+	top:200px; left:0; height: 200px; width: 600px;	
+}
+
+#socialLinks{
+	position:absolute;
+	top:330px; left:0; height: 50px; width: 200px;	
+}
+	
+	#linkedInLink{
+		position: absolute;
+		width:50px; height:50px;left:0px; 
+		background-image:url('images/LinkedIn.png');
+		background-size:50px 50px;
+		background-repeat: no-repeat; background-position:center center;
+	}
+	
+	#twitterLink{
+		position: absolute;
+		width:50px; height:50px;left:75px; 
+		background-image:url('images/Twitter.png');
+		background-size:50px 50px;
+		background-repeat: no-repeat; background-position:center center;
+	}
+
+	#facebookLink{
+		position: absolute;
+		width:50px; height:50px;left:150px; 
+		background-image:url('images/Facebook.png');
+		background-size:50px 50px;
+		background-repeat: no-repeat; background-position:center center;
+	}
+	
+	#instagramLink{
+		position: absolute;
+		width:50px; height:50px;left:225px; 
+		background-image:url('images/Instagram.png');
+		background-size:50px 50px;
+		background-repeat: no-repeat; background-position:center center;
+	}
+
+	#githubLink{
+		position: absolute;
+		width:50px; height:50px;left:300px; 
+		background-image:url('images/githubIcon.png');
+		background-size:50px 50px;
+		background-repeat: no-repeat; background-position:center center;
+	}
+
+	#blogsLink{
+		position: absolute;
+		width:47px; height:47px;left:375px; 
+		border-radius: 11px;
+		background-color: #FF4F8A;
+	}
+	
+	.iconLinkAnim{ opacity:0.6; transition: 0.3s; }
+	.iconLinkAnim:hover{ opacity:0.8; }
+	.iconLinkAnim:active{ opacity:1.0; }
+
+#bitmakerLogo{
+	position:absolute;
+	top:-120px; right:-20px; height:497px; width:300px;
+	background-image:url('images/bitmakerLogo.png');
+	background-size: 175px 175px;
+	background-position:center center;
+	background-repeat: no-repeat;
+}
+
+#stepsImage2{
+	position:absolute;
+	top:-120px; left:-20px; height:497px; width:300px;
+	background-image:url('images/step2.png');
+	background-size: 300px 497px;
+	background-position:center center;
+	background-repeat: no-repeat;
+}
+
+#stepsImage3{
+	position:absolute;
+	top:-120px; right:-20px; height:497px; width:300px;
+	background-image:url('images/step3.png');
+	background-size: 300px 497px;
+	background-position:center center;
+	background-repeat: no-repeat;
+}
+
+.minHeight500{
+	min-height:500px;	
+}
+
+#pinkSquare{
+	background-color: #FF3399;
+	width: 300px;
+	opacity: 0.7;
+}
+
+#lightPinkSquare{
+	background-color: #FF6699;
+	width: 535px;
+	opacity: 0.7;
+}
+
+#blueSquare{
+	background-color: #0066FF;
+	border-radius: 15px;
+	width: 75%;
+	margin: 0 auto;
+	opacity: 0.7;
+	padding: 10px;
+	margin-top: 100px;
+
+}
+
+#lightBlueSquare{
+	background-color: #0099FF;
+	border-radius: 15px;
+	width: 100%;
+	margin: 0 auto;
+	opacity: 0.7;
+	padding: 10px;
+}
+
+#lightLightBlueSquare{
+	background-color: #0066FF;
+	border-radius: 15px;
+	width: 30%;
+	margin: 0 auto;
+	opacity: 0.9;
+	padding: 10px;
+}
+
+
+.bitmakerBox{
+	/*background-color: #000;*/
+	transition: 2s;
+	width: 100%;
+	padding: 20px;
+	opacity: 0.7;
+	border-radius: 20px;
+}
+
+.bitmakerBox:hover{
+	background-color: rgba(51, 198, 236, 1);
+	transition: 2s;
+	width: 100%;
+	padding: 20px;
+	opacity: 0.7;
+	border-radius: 20px;
+}
+
+.torontoBox{
+	transition: 2s;
+	width: 900px;
+	padding: 20px;
+	opacity: 0.7;
+	border-radius: 20px;
+}
+
+.torontoBox:hover{
+	background-color: #3300CC;
+	transition: 2s;
+	width: 900px;
+	padding: 20px;
+	opacity: 0.7;
+	border-radius: 20px;
+}
+
+.queensBox{
+	transition: 2s;
+	width: 800px;
+	/*width: 100%;*/
+	padding: 20px;
+	opacity: 0.7;
+	border-radius: 20px;
+}
+.queensBox:hover{
+	background-color: rgba(413, 20, 51, 1);
+	transition: 2s;
+	width: 800px;
+	/*width: 100%;*/
+	padding: 20px;
+	opacity: 0.7;
+	border-radius: 20px;
+}

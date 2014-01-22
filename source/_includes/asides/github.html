@@ -1,0 +1,14 @@
+{% if site.github_user %}
+<h2><!-- recent public projects -->
+	<div style="width:300px;margin: 0 auto;">
+		<img src="../../images/stirling.jpg">
+	</div>
+</h2>
+<dl id="gh_repos" class="dl-horizontal" data-github-user="{{ site.github_user }}" data-github-repo-count="{{ site.github_repo_count }}" data-github-skip-forks="{{ site.github_skip_forks }}">
+  <dd class="loading"><!-- Status updating... --></dd>
+</dl>
+
+<!-- src="{{ root_url }}/javascripts/github.js" type="text/javascript" -->
+<!-- src="{{ root_url }}/javascripts/libs/jXHR.js" type="text/javascript" -->
+
+{% endif %}

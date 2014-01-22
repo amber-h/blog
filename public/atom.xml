@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Life As A (Jr) Dev]]></title>
+  <link href="http://thawing-sands-3170.herokuapp.com//atom.xml" rel="self"/>
+  <link href="http://thawing-sands-3170.herokuapp.com//"/>
+  <updated>2014-01-12T19:51:27-06:00</updated>
+  <id>http://thawing-sands-3170.herokuapp.com//</id>
+  <author>
+    <name><![CDATA[Amber Houle]]></name>
+    <email><![CDATA[amber.houle3@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+  <!--   <title type="html"><![CDATA[Tech in 2014: CES Highlights]]></title>
+    <link href="http://thawing-sands-3170.herokuapp.com//blog/2014/01/11/tech-in-2014-ces-highlights/"/>
+    <updated>2014-01-11T21:32:34-06:00</updated>
+    <id>http://thawing-sands-3170.herokuapp.com//blog/2014/01/11/tech-in-2014-ces-highlights</id>
+    <content type="html"><![CDATA[<p><img class="left" src="http://thawing-sands-3170.herokuapp.com//images/vegaspalazzo.JPG" width="650" height="650" title="image" alt="images"></p>
+
+<p>Nothing like starting the year with gadgets, glam and good food at <a href="http://www.cesweb.org/">CES</a> in Las Vegas where over 150,000 attendees from over 150 countries around the world get together to showcase and check out the most innovative upcoming technologies.</p>
+
+<!--more-->
+
+
+<p>Audi impressed its viewers on the opening night of CES during their keynote at the Cosmopolitan hotel with speaker Kunal Nayyar of &ldquo;The Big Bang Theory&rdquo;.</p>
+
+<p>They showcased their <em><strong>autonomous cars</strong></em>, of which the <a href="http://www.youtube.com/watch?v=gbbCaSvQXKU">Audi A7</a> is seen in the image below. Kunal Nayyar is holding the &ldquo;brain&rdquo; of the self-driving car which fits on a circuit board smaller than an iPad.</p>
+
+<p>Another highlight of the Audi keynote were the new <em><strong>laser-powered headlights</strong></em>. These headlights have a range of 500 meters and can detect oncoming traffic to adjust the power appropriately.</p>
+
+<p><img class="left" src="http://thawing-sands-3170.herokuapp.com//images/vegasaudi.jpg" width="650" height="650" title="image" alt="images"></p>
+
+<p>There were no shortage of TVs being showcased. In the main hall of CES you could find <em><strong>4K (Samsung even had an 8K TV on display), curved, OLED, bendable and 3D UHD TVs</strong></em>.</p>
+
+<p><img class="left" src="http://thawing-sands-3170.herokuapp.com//images/vegascurvedtv.JPG" width="650" height="650" title="image" alt="images"></p>
+
+<p><em><strong>Samsung</strong></em> was also showcasing a <em><strong>dual-view OLED TV</strong></em> allowing viewers to look at the screen and watch two different programs simultaneously. The viewers need to wear 3D glasses and sit either to the left or the right of the screen depending on what they want to watch. No more fighting over which shows to watch!</p>
+
+<p>Another surprise by both Samsung and LG were their <em><strong>bendable TVs</strong></em>, which, with the push of a button, literally morphed the TV from flat screen to curved.</p>
+
+<p><img class="left" src="http://thawing-sands-3170.herokuapp.com//images/vegasdual.JPG" width="650" height="650" title="image" alt="images"></p>
+
+<p>LG showed off their large concept <em><strong>touch screen mirror</strong></em> and <em><strong>transparent displays</strong></em>. Imagine the contents of your smartphone being displayed on your mirror as you get ready in the morning, voice activated to access your schedule, emails, weather ect. They also demo&rsquo;d the mirror and transparent displays to be used in stores, allowing customers to browse through catalogues and learn more about products.</p>
+
+<p><img class="left" src="http://thawing-sands-3170.herokuapp.com//images/vegasmirror.jpg" width="650" height="650" title="image" alt="images"></p>
+
+<p>Toshiba was displaying their <em><strong>concept 5-in-1 PC</strong></em> which can be used in: 1. Laptop mode 2. Canvas mode 3. Tablet Mode 4. Presentation / TV Mode and 5. Convertible Tablet Mode.</p>
+
+<p>The concept PC has a detachable keyboard which can be used wirelessly. It also has a rotating base which can be used as a stand in either tablet or PC mode.</p>
+
+<p>No specs were provided since it is still purely a concept, so at this point it is hard to say how useful it might be. What do you think?</p>
+
+<p><img class="left" src="http://thawing-sands-3170.herokuapp.com//images/vegastoshibaPC.jpg" width="650" height="650" title="image" alt="images"></p>
+
+<p>There was no surprise to see the <em><strong>Oculus Rift</strong></em> augmented reality gaming goggles amongst all the gadgets at CES. A huge crowd lined up to demo the system. Check out more details <a href="http://www.oculusvr.com/">here</a> if you haven&rsquo;t seen it yet.</p>
+
+<p><img class="left" src="http://thawing-sands-3170.herokuapp.com//images/vegasocculusrift.JPG" width="650" height="650" title="image" alt="images"></p>
+
+<p>One of my favorites was the <a href="http://www.intel.com/content/www/us/en/do-it-yourself/edison.html">Intel Edison</a>, a <em><strong>computer the size of an SD card</strong></em>. Intel demo&rsquo;d the use of Edison as a monitoring system by attaching sensors to a babies outfit, which then graphically displayed the information on a coffee mug using LEDs.</p>
+
+<p>Edison has built-in Wi-Fi as well as Bluetooth Low Energy capabilities. It uses flash storage and can be used as an SD card in your devices. For developers, it will be an interesting alternative to similar but larger devices such as the <a href="http://www.raspberrypi.org">Raspberry Pi</a> and <a href="http://arduino.cc/">Arduino</a> once it is released.</p>
+
+<p>Intels opening keynote also hit home for me when they announced they are now <a href="http://www.youtube.com/watch?v=aF-sJgcoY20">conflict mineral</a> free. This means they are no longer producing chips and hardware with minerals originating from the Congo where the minerals are mined under conditions of human rights abuse and armed conflict. This is a big move by Intel, hoping others will follow.</p>
+
+<p><img class="left" src="http://thawing-sands-3170.herokuapp.com//images/vegasedison2.JPG" width="650" height="650" title="image" alt="images"></p>
+
+<p>Last but not least, you can&rsquo;t go to a tech conference without high-tech massage chairs. (This one is mostly here for entertainment, but also, note the male to female ratio in this photo, a good representation of what it was like at the conference).</p>
+
+<p><img class="left" src="http://thawing-sands-3170.herokuapp.com//images/vegasmassage.jpg" width="650" height="650" title="image" alt="images"></p>
+
+<p>PS. If you&rsquo;re in Vegas, check out the unlimited champagne <a href="http://www.caesarspalace.com/restaurants/bacchanal-buffet.html#.UtM3KGRDt9Q">Bacchanal Buffet</a> at Ceasars Palace. Show up about an hour before you want to eat to grab a ticket to reserve a table. Oh, and don&rsquo;t plan on doing any shopping / trying on fitted clothing afterwards (unless you have much better self control than I do) .</p>
+]]></content> &#8211;>
+      
+        <title type="html"><![CDATA[Tech in 2014: CES Highlights]]></title>
+        <link href="http://thawing-sands-3170.herokuapp.com//blog/2014/01/11/tech-in-2014-ces-highlights/"/>
+        
+        <updated>2014-01-11T21:32:34-06:00</updated>
+        <id>http://thawing-sands-3170.herokuapp.com//blog/2014/01/11/tech-in-2014-ces-highlights</id>
+        
+        <content type="html"><![CDATA[<p><img class="left" src="http://thawing-sands-3170.herokuapp.com//images/vegaspalazzo.JPG" width="650" height="650" title="image" alt="images"></p>
+
+<p>Nothing like starting the year with gadgets, glam and good food at <a href="http://www.cesweb.org/">CES</a> in Las Vegas where over 150,000 attendees from over 150 countries around the world get together to showcase and check out the most innovative upcoming technologies.</p>
+
+<!--more-->
+
+
+<p>Audi impressed its viewers on the opening night of CES during their keynote at the Cosmopolitan hotel with speaker Kunal Nayyar of &ldquo;The Big Bang Theory&rdquo;.</p>
+
+<p>They showcased their <em><strong>autonomous cars</strong></em>, of which the <a href="http://www.youtube.com/watch?v=gbbCaSvQXKU">Audi A7</a> is seen in the image below. Kunal Nayyar is holding the &ldquo;brain&rdquo; of the self-driving car which fits on a circuit board smaller than an iPad.</p>
+
+<p>Another highlight of the Audi keynote were the new <em><strong>laser-powered headlights</strong></em>. These headlights have a range of 500 meters and can detect oncoming traffic to adjust the power appropriately.</p>
+
+<p><img class="left" src="http://thawing-sands-3170.herokuapp.com//images/vegasaudi.jpg" width="650" height="650" title="image" alt="images"></p>
+
+<p>There were no shortage of TVs being showcased. In the main hall of CES you could find <em><strong>4K (Samsung even had an 8K TV on display), curved, OLED, bendable and 3D UHD TVs</strong></em>.</p>
+
+<p><img class="left" src="http://thawing-sands-3170.herokuapp.com//images/vegascurvedtv.JPG" width="650" height="650" title="image" alt="images"></p>
+
+<p><em><strong>Samsung</strong></em> was also showcasing a <em><strong>dual-view OLED TV</strong></em> allowing viewers to look at the screen and watch two different programs simultaneously. The viewers need to wear 3D glasses and sit either to the left or the right of the screen depending on what they want to watch. No more fighting over which shows to watch!</p>
+
+<p>Another surprise by both Samsung and LG were their <em><strong>bendable TVs</strong></em>, which, with the push of a button, literally morphed the TV from flat screen to curved.</p>
+
+<p><img class="left" src="http://thawing-sands-3170.herokuapp.com//images/vegasdual.JPG" width="650" height="650" title="image" alt="images"></p>
+
+<p>LG showed off their large concept <em><strong>touch screen mirror</strong></em> and <em><strong>transparent displays</strong></em>. Imagine the contents of your smartphone being displayed on your mirror as you get ready in the morning, voice activated to access your schedule, emails, weather ect. They also demo&rsquo;d the mirror and transparent displays to be used in stores, allowing customers to browse through catalogues and learn more about products.</p>
+
+<p><img class="left" src="http://thawing-sands-3170.herokuapp.com//images/vegasmirror.jpg" width="650" height="650" title="image" alt="images"></p>
+
+<p>Toshiba was displaying their <em><strong>concept 5-in-1 PC</strong></em> which can be used in: 1. Laptop mode 2. Canvas mode 3. Tablet Mode 4. Presentation / TV Mode and 5. Convertible Tablet Mode.</p>
+
+<p>The concept PC has a detachable keyboard which can be used wirelessly. It also has a rotating base which can be used as a stand in either tablet or PC mode.</p>
+
+<p>No specs were provided since it is still purely a concept, so at this point it is hard to say how useful it might be. What do you think?</p>
+
+<p><img class="left" src="http://thawing-sands-3170.herokuapp.com//images/vegastoshibaPC.jpg" width="650" height="650" title="image" alt="images"></p>
+
+<p>There was no surprise to see the <em><strong>Oculus Rift</strong></em> augmented reality gaming goggles amongst all the gadgets at CES. A huge crowd lined up to demo the system. Check out more details <a href="http://www.oculusvr.com/">here</a> if you haven&rsquo;t seen it yet.</p>
+
+<p><img class="left" src="http://thawing-sands-3170.herokuapp.com//images/vegasocculusrift.JPG" width="650" height="650" title="image" alt="images"></p>
+
+<p>One of my favorites was the <a href="http://www.intel.com/content/www/us/en/do-it-yourself/edison.html">Intel Edison</a>, a <em><strong>computer the size of an SD card</strong></em>. Intel demo&rsquo;d the use of Edison as a monitoring system by attaching sensors to a babies outfit, which then graphically displayed the information on a coffee mug using LEDs.</p>
+
+<p>Edison has built-in Wi-Fi as well as Bluetooth Low Energy capabilities. It uses flash storage and can be used as an SD card in your devices. For developers, it will be an interesting alternative to similar but larger devices such as the <a href="http://www.raspberrypi.org">Raspberry Pi</a> and <a href="http://arduino.cc/">Arduino</a> once it is released.</p>
+
+<p>Intels opening keynote also hit home for me when they announced they are now <a href="http://www.youtube.com/watch?v=aF-sJgcoY20">conflict mineral</a> free. This means they are no longer producing chips and hardware with minerals originating from the Congo where the minerals are mined under conditions of human rights abuse and armed conflict. This is a big move by Intel, hoping others will follow.</p>
+
+<p><img class="left" src="http://thawing-sands-3170.herokuapp.com//images/vegasedison2.JPG" width="650" height="650" title="image" alt="images"></p>
+
+<p>Last but not least, you can&rsquo;t go to a tech conference without high-tech massage chairs. (This one is mostly here for entertainment, but also, note the male to female ratio in this photo, a good representation of what it was like at the conference).</p>
+
+<p><img class="left" src="http://thawing-sands-3170.herokuapp.com//images/vegasmassage.jpg" width="650" height="650" title="image" alt="images"></p>
+
+<p>PS. If you&rsquo;re in Vegas, check out the unlimited champagne <a href="http://www.caesarspalace.com/restaurants/bacchanal-buffet.html#.UtM3KGRDt9Q">Bacchanal Buffet</a> at Ceasars Palace. Show up about an hour before you want to eat to grab a ticket to reserve a table. Oh, and don&rsquo;t plan on doing any shopping / trying on fitted clothing afterwards (unless you have much better self control than I do) .</p>
+]]></content>
+      
+  </entry>
+  
+  <entry>
+  <!--   <title type="html"><![CDATA[Life Beyond Bitmaker]]></title>
+    <link href="http://thawing-sands-3170.herokuapp.com//blog/2013/12/16/life-beyond-bitmaker/"/>
+    <updated>2013-12-16T13:46:26-06:00</updated>
+    <id>http://thawing-sands-3170.herokuapp.com//blog/2013/12/16/life-beyond-bitmaker</id>
+    <content type="html"><![CDATA[<p>I wrote this blog post for <a href="http://bitmakerlabs.com/">Bitmaker Labs</a> about my post-Bitmaker adventures to <a href="http://rubyconf.org/">RubyConf</a> Miami and San Francisco. Check it out along with the other great things Bitmaker students are up to and how they are getting involved with the Toronto tech scene.</p>
+]]></content> &#8211;>
+      
+        <title type="html"><![CDATA[Life Beyond Bitmaker GLYPH GOES HERE]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+        <link href="http://blog.bitmakerlabs.com/2013/12/03/grad-life-beyond-bitmaker/"/>
+        
+        <updated>2013-12-16T13:46:26-06:00</updated>
+        <id>http://thawing-sands-3170.herokuapp.com//blog/2013/12/16/life-beyond-bitmaker</id>
+        
+        <content type="html"><![CDATA[<p>I wrote this blog post for <a href="http://bitmakerlabs.com/">Bitmaker Labs</a> about my post-Bitmaker adventures to <a href="http://rubyconf.org/">RubyConf</a> Miami and San Francisco. Check it out along with the other great things Bitmaker students are up to and how they are getting involved with the Toronto tech scene.</p>
+<a rel="full-article" href="http://thawing-sands-3170.herokuapp.com//blog/2013/12/16/life-beyond-bitmaker/">Permalink</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+        
+  </entry>
+  
+  <entry>
+  <!--   <title type="html"><![CDATA[Blogging with Jekyll/Octopress]]></title>
+    <link href="http://thawing-sands-3170.herokuapp.com//blog/2013/12/16/blogging-with-jekyll-slash-octopress/"/>
+    <updated>2013-12-16T10:19:16-06:00</updated>
+    <id>http://thawing-sands-3170.herokuapp.com//blog/2013/12/16/blogging-with-jekyll-slash-octopress</id>
+    <content type="html"><![CDATA[<p>As I have recently graduated from University of Toronto, finished <a href="www.bitmakerlabs.com">Bitmaker Labs</a>, a Toronto based intensive coding school, and will be starting a new job as a Software Developer in the new year, I figured it was a good time to launch a blog to keep track of and be able to share the knowledge I acquire along the way.</p>
+
+<!--more-->
+
+
+<p>I was originally going to launch a blog using <a href="https://wordpress.org">Wordpress.org</a>. I thought it would be a good excuse to expose myself to some PHP over time. I spent a couple of days playing around with the PHP source code, trying to get things to work the way I wanted them to, but then decided to look for other &ldquo;quick deployment&rdquo; solutions.</p>
+
+<p>I am a little bit stubborn in that I like to do everything on my own and build things from scratch (i.e not make use of all the available Wordpress plugins that will do everything for you). Although this is a great way to get a deep understanding of the tools and technologies you are using (really a great way to learn for yourself), it is definitely NOT the most time efficient way of getting things done and as stubborn as I am, I am realizing more and more how important it is to pick and choose what pre-existing tools you should make use of.</p>
+
+<p>Anyways, after deciding I was spending too much time when I had so little, I thought it might be a good idea to build a personal blog from scratch in rails, until I stumbled upon <a href="http://jekyllrb.com/">Jekyll</a> and <a href="http://octopress.org/">Octopress</a>. Jekyll is &ldquo;a simple, blog aware, static site generator&rdquo; bundled as a ruby gem. Jekyll doesn&rsquo;t come with any templating, CSS, HTML or styling elements, it is pretty &ldquo;bare bones&rdquo;, so to get a blog up and running really quickly with some element of design taken care of, you can use <a href="http://octopress.org/">Octopress</a>, a framework written for Jekyll.</p>
+
+<p>Octopress calls itself <em><strong>&ldquo;A blogging framework for hackers&rdquo;</strong></em>. It provides an HTML5 template and a mobile first responsive layout. If you are already a Ruby developer and use Git the setup is very quick and the <a href="http://octopress.org/docs/">getting started documentation</a> is straightforward. The nice thing about Octopress is it is very lightweight and flexible, you can choose to use a pre-existing theme (of which some good 3rd party themes can be found <a href="https://github.com/imathis/octopress/wiki/3rd-Party-Octopress-Themes">here</a>), and it is easy to customize and edit source code as much or as little as you want.</p>
+
+<p>Another reason I am liking the Octopress solution over Wordpress, is it avoids the need to add posts and pages through a graphical admin page. With Octopress everytime you want to add a new post just run the command <code>rake new_post["title"]</code> and start typing your post in your favorite text editor (<a href="http://www.sublimetext.com/">Sublime</a> in my case!) in markdown format.</p>
+
+<p>You can also easily deploy your Octopress blog to Github or Heroku, and again <a href="http://octopress.org/docs/deploying/">the documentation</a> is quick and straightforward.</p>
+
+<p>I got everything up and running and configured within a couple of hours, and am having fun playing around with the customization of the site. Styling templates are provided as <a href="http://sass-lang.com/">SASS</a> files, so for someone who hasn&rsquo;t ventured outside of basic CSS much, it is fun to play around with these <em><strong>Syntactically Awesome Style Sheets</strong></em>.</p>
+
+<p>Happy blogging everyone!</p>
+]]></content> &#8211;>
+      
+        <title type="html"><![CDATA[Blogging with Jekyll/Octopress]]></title>
+        <link href="http://thawing-sands-3170.herokuapp.com//blog/2013/12/16/blogging-with-jekyll-slash-octopress/"/>
+        
+        <updated>2013-12-16T10:19:16-06:00</updated>
+        <id>http://thawing-sands-3170.herokuapp.com//blog/2013/12/16/blogging-with-jekyll-slash-octopress</id>
+        
+        <content type="html"><![CDATA[<p>As I have recently graduated from University of Toronto, finished <a href="www.bitmakerlabs.com">Bitmaker Labs</a>, a Toronto based intensive coding school, and will be starting a new job as a Software Developer in the new year, I figured it was a good time to launch a blog to keep track of and be able to share the knowledge I acquire along the way.</p>
+
+<!--more-->
+
+
+<p>I was originally going to launch a blog using <a href="https://wordpress.org">Wordpress.org</a>. I thought it would be a good excuse to expose myself to some PHP over time. I spent a couple of days playing around with the PHP source code, trying to get things to work the way I wanted them to, but then decided to look for other &ldquo;quick deployment&rdquo; solutions.</p>
+
+<p>I am a little bit stubborn in that I like to do everything on my own and build things from scratch (i.e not make use of all the available Wordpress plugins that will do everything for you). Although this is a great way to get a deep understanding of the tools and technologies you are using (really a great way to learn for yourself), it is definitely NOT the most time efficient way of getting things done and as stubborn as I am, I am realizing more and more how important it is to pick and choose what pre-existing tools you should make use of.</p>
+
+<p>Anyways, after deciding I was spending too much time when I had so little, I thought it might be a good idea to build a personal blog from scratch in rails, until I stumbled upon <a href="http://jekyllrb.com/">Jekyll</a> and <a href="http://octopress.org/">Octopress</a>. Jekyll is &ldquo;a simple, blog aware, static site generator&rdquo; bundled as a ruby gem. Jekyll doesn&rsquo;t come with any templating, CSS, HTML or styling elements, it is pretty &ldquo;bare bones&rdquo;, so to get a blog up and running really quickly with some element of design taken care of, you can use <a href="http://octopress.org/">Octopress</a>, a framework written for Jekyll.</p>
+
+<p>Octopress calls itself <em><strong>&ldquo;A blogging framework for hackers&rdquo;</strong></em>. It provides an HTML5 template and a mobile first responsive layout. If you are already a Ruby developer and use Git the setup is very quick and the <a href="http://octopress.org/docs/">getting started documentation</a> is straightforward. The nice thing about Octopress is it is very lightweight and flexible, you can choose to use a pre-existing theme (of which some good 3rd party themes can be found <a href="https://github.com/imathis/octopress/wiki/3rd-Party-Octopress-Themes">here</a>), and it is easy to customize and edit source code as much or as little as you want.</p>
+
+<p>Another reason I am liking the Octopress solution over Wordpress, is it avoids the need to add posts and pages through a graphical admin page. With Octopress everytime you want to add a new post just run the command <code>rake new_post["title"]</code> and start typing your post in your favorite text editor (<a href="http://www.sublimetext.com/">Sublime</a> in my case!) in markdown format.</p>
+
+<p>You can also easily deploy your Octopress blog to Github or Heroku, and again <a href="http://octopress.org/docs/deploying/">the documentation</a> is quick and straightforward.</p>
+
+<p>I got everything up and running and configured within a couple of hours, and am having fun playing around with the customization of the site. Styling templates are provided as <a href="http://sass-lang.com/">SASS</a> files, so for someone who hasn&rsquo;t ventured outside of basic CSS much, it is fun to play around with these <em><strong>Syntactically Awesome Style Sheets</strong></em>.</p>
+
+<p>Happy blogging everyone!</p>
+]]></content>
+      
+  </entry>
+  
+</feed>
